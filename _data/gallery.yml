@@ -1,31 +1,63 @@
-- image_thumb: gallery-small.jpg
-  image_large: gallery-large.jpg
+- image_thumb: gallery-small01.jpg
+  image_large: gallery-large01.jpg
   image_alt: something meaningful
 
-- image_thumb: gallery-small2.jpg
-  image_large: gallery-large.jpg
+- image_thumb: gallery-small02.jpg
+  image_large: gallery-large02.jpg
   image_alt: something meaningful
 
-- image_thumb: gallery-small.jpg
-  image_large: gallery-large.jpg
+- image_thumb: gallery-small03.jpg
+  image_large: gallery-large03.jpg
   image_alt: something meaningful
 
-- image_thumb: gallery-small2.jpg
-  image_large: gallery-large.jpg
+- image_thumb: gallery-small04.jpg
+  image_large: gallery-large04.jpg
   image_alt: something meaningful
 
-- image_thumb: gallery-small2.jpg
-  image_large: gallery-large.jpg
+- image_thumb: gallery-small05.jpg
+  image_large: gallery-large05.jpg
   image_alt: something meaningful
 
-- image_thumb: gallery-small.jpg
-  image_large: gallery-large.jpg
+- image_thumb: gallery-small06.jpg
+  image_large: gallery-large06.jpg
   image_alt: something meaningful
 
-- image_thumb: gallery-small2.jpg
-  image_large: gallery-large.jpg
+- image_thumb: gallery-small07.jpg
+  image_large: gallery-large07.jpg
   image_alt: something meaningful
 
-- image_thumb: gallery-small.jpg
-  image_large: gallery-large.jpg
+- image_thumb: gallery-small08.jpg
+  image_large: gallery-large08.jpg
+  image_alt: something meaningful
+  
+- image_thumb: gallery-small09.jpg
+  image_large: gallery-large09.jpg
+  image_alt: something meaningful
+
+- image_thumb: gallery-small10.jpg
+  image_large: gallery-large10.jpg
+  image_alt: something meaningful
+
+- image_thumb: gallery-small11.jpg
+  image_large: gallery-large11.jpg
+  image_alt: something meaningful
+
+- image_thumb: gallery-small12.jpg
+  image_large: gallery-large12.jpg
+  image_alt: something meaningful
+
+- image_thumb: gallery-small13.jpg
+  image_large: gallery-large13.jpg
+  image_alt: something meaningful
+
+- image_thumb: gallery-small14.jpg
+  image_large: gallery-large14.jpg
+  image_alt: something meaningful
+
+- image_thumb: gallery-small15.jpg
+  image_large: gallery-large15.jpg
+  image_alt: something meaningful
+
+- image_thumb: gallery-small16.jpg
+  image_large: gallery-large16.jpg
   image_alt: something meaningful
