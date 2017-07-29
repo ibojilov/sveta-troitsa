@@ -1,0 +1,68 @@
+# Site settings
+title: Храм Света Троица | София, район Слатина
+description: Официална информационна страница на православен храм Света Троица район Слатина
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the name of your domain
+logo_url: svg/min/logo.svg
+
+# Hero
+hero: 
+    hero_img: hero.jpg
+    hero_title: Храм "Света Троица"
+    hero_description: Официална информационна страница на православен храм "Света Троица"и старинен слатински храм "Свети Великомъченик Мина"
+
+# Contact form
+api_token: # Enter API token here
+
+# Contact info
+contact:
+    phone: 02 872 0970
+    emergency: 02 872 0970
+    email: contact@sveta-troitsa.eu
+    address: ул. "Манастирска" 45, <br>ж.к. "Гео Милев", район "Слатина",<br>гр. София, 1111
+
+# Opening hours
+monday_friday: 8:00 – 18:00
+saturday: 8:00 – 18:00
+sunday: 8:00 – 18:00
+
+# Testimonials
+testimonials:
+    testimonials_img: parallax.jpg
+
+# Map
+map:
+    zoom: 17
+    address: Manastirska 45, Sofia, Bulgaria
+    address_details: svg/min/logo.svg
+
+# Social settings
+facebook: http://www.facebook.com/291873434171269/
+twitter: http://twitter.com
+instagram: http://instagram.com
+youtube: http://youtube.com
+skype: ""
+feed: yes
+
+# Footer
+copyright: © 2017 Храм "Света Троица"
+
+# Build settings
+markdown: kramdown
+
+exclude: [
+    package.json,
+    package-lock.json,
+    Gruntfile.js,
+    node_modules,
+    .sass-cache,
+    Gemfile,
+    Gemfile.lock,
+    .gitignore,
+    LICENSE.md,
+    README.md
+]
+
+# Theme Settings
+analytics: 
+google_verification:
