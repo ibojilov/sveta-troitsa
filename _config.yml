@@ -22,9 +22,9 @@ contact:
     address: ул. "Манастирска" 45, <br>ж.к. "Гео Милев", район "Слатина",<br>гр. София, 1111
 
 # Opening hours
-monday_friday: 8:00 – 18:00
-saturday: 8:00 – 18:00
-sunday: 8:00 – 18:00
+monday_friday: 7:00 – 19:00
+saturday: 7:30 – 18:00
+sunday: 
 
 # Testimonials
 testimonials:
@@ -64,5 +64,5 @@ exclude: [
 ]
 
 # Theme Settings
-analytics: 
+analytics: UA-6871537-12
 google_verification:
