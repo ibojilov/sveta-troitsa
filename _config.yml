@@ -1,6 +1,6 @@
 # Site settings
-title: Храм Света Троица | София, район Слатина
-description: Официална информационна страница на православен храм Света Троица район Слатина
+title: Храм "Света Троица", гр. София, район "Слатина"
+description: Официална информационна страница на православен храм "Света Троица", гр. София, район "Слатина"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the name of your domain
 logo_url: svg/min/logo.svg
