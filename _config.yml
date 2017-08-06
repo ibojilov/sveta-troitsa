@@ -33,8 +33,8 @@ testimonials:
 # Map
 map:
     zoom: 17
-    address: Manastirska 45, Sofia, Bulgaria
-    address_details: svg/min/logo.svg
+    address: Manastirska St 45, 1111 ж.к. Гео Милев, Sofia
+    address_details: /svg/logo.svg
 
 # Social settings
 facebook: http://www.facebook.com/291873434171269/
