@@ -1,27 +1,27 @@
 - icon: icon-lodka
   title: КРЪЩЕНИЕ
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+  description: В св. тайнство Кръщение човек се умива от първородния грях и от всички грехове, сторени до кръщението, и се ражда за нов, духовен и свет живот.
 
 - icon: icon-user
   title: МИРОПОМАЗВАНЕ
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+  description: В св. тайнство Миропомазване християнинът получава благодатта да расте и укрепва духовно, да се бори с враговете на своето спасение, да успява във вярата и в християнските добродетели.
 
 - icon: icon-trophy
   title: ПРИЧАЩЕНИЕ
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+  description: В св. тайнство Причащение християнинът приема като духовна храна истинското Тяло и истинската Кръв на Господа Иисуса Христа за прошка на греховете и за придобиване на вечен живот.
 
 - icon: icon-user
-  title: ПОКАЯНИЕ
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
-
-- icon: icon-user
-  title: СВЕЩЕНСТВО
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+  title: ПОКАЯНИЕ (Изповед)
+  description: В св. тайнство Покаяние християнинът се лекува от духовните си недъзи, от порочните си наклонности и от греховете, които е сторил след кръщението.
 
 - icon: icon-user
   title: БРАК
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+  description: В св. тайнство Брак християнинът получава благодат, която освещава съпружеството, раждането на деца и възпитаването им. 
   
 - icon: icon-user
   title: ЕЛЕОСВЕЩЕНИЕ (МАСЛОСВЕТ)
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+  description: В св. тайнство Елеосвещение християнинът чрез изцеряването от духовните си немощи се лекува и от телесните си болести.
+
+- icon: icon-user
+  title: СВЕЩЕНСТВО
+  description: В св. тайнство Свещенство се получава благодатта за извършване богослуженията и за духовното възраждане и възпитаване душите чрез преподаване здравото православно учение и чрез извършване на тайнствата.
