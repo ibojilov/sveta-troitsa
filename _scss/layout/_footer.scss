@@ -9,3 +9,12 @@
         display: block;
     }
 }
+
+.main-footer a {
+    color: $white;
+    background: lighten($colorPrimary, 2%);
+    text-align: center;
+    small {
+        display: block;
+    }
+}
